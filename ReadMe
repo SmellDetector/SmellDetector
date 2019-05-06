@@ -1,0 +1,2 @@
+There are two kinds of datasets, i.e., bytecode on Ethereum and labeled ground truth.
+You can found byte code at : https://drive.google.com/open?id=19m2ZWXI9HeJk81WSKeoFd0q3cIXEjcLF ; There are two files in this zip; hashcode stores all distince bytecode, which is identified by a hash value. You can find the related contract addresses on hashaddr.
